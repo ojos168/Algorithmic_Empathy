@@ -20,3 +20,14 @@ This project uses Explainable AI (SHAP) to extract the decision-making weights o
 
 ## Preliminary Findings
 The SHAP analysis successfully proved that the Logistic Regression model organically learned to identify stress using clinical psycholinguistic markers. The top features driving the model's predictions were first-person singular pronouns (e.g., *"me", "my", "I'm"*), empirically aligning machine logic with human psychological theory.
+
+
+## Open Notebook in Google Colab
+Click the badge below to automatically open, run, and view the visualizations in Google Colab:
+
+<table align="left">
+  <td>
+    <a href="https://colab.research.google.com/github/ojos168/HW2_Stress_Prediction/blob/main/Stress_Prediction_EDA_and_Baseline_Model.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+</table>
+<br><br>
