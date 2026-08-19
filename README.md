@@ -27,7 +27,7 @@ Click the badge below to automatically open, run, and view the visualizations in
 
 <table align="left">
   <td>
-    <a href="https://colab.research.google.com/github/ojos168/HW2_Stress_Prediction/blob/main/Stress_Prediction_EDA_and_Baseline_Model.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/github/ojos168/Algorithmic_Empathy/blob/main/Stress_Prediction_EDA_and_Baseline_Model.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
 </table>
 <br><br>
